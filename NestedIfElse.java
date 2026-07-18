@@ -1,5 +1,5 @@
 //This program shows nested if-else statements.
-class largerofAll{
+class NestedIfElse{
 
 public static void main (String[] args){
 	int a = 2;
