@@ -1,3 +1,4 @@
+//this program showcases usage of switch-case statements.
 class switchCase {
 
 public static void main(String[] args) {
