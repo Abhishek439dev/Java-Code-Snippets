@@ -1,5 +1,5 @@
 //This program prints evnen numbers in reverse order from 10 to 0 using different looping statements. 
-class evenReverse {
+class DifferentLoops {
   public static void main(String[] args){
 
 	  //for-loop
