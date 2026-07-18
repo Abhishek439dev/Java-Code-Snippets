@@ -1,4 +1,5 @@
-class PositiveNegative{
+//This program showcases if-else conditional statements.
+class IfElseStatements{
 	
 	public static void main(String[] args){
 		
