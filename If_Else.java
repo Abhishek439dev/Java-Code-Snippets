@@ -1,4 +1,5 @@
-class OddEven {
+//Simple if-else statements
+class If_Else {
 	public static void main(String[] args){
 		int n = 11;
 		if(n%2 == 0){
