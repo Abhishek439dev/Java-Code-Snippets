@@ -1,5 +1,5 @@
 //This program showcases if-else conditional statements.
-class IfElseStatements{
+class IfElseIfStatements{
 	
 	public static void main(String[] args){
 		
