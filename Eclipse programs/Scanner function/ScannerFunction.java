@@ -2,6 +2,7 @@ package com;
 
 public class ScannerFunction {
 
+//This is a logic written within a method to check if a number is positive or negative.
 	void checkPositiveOrNegative(int x){
 	
 	if(x>0) {
