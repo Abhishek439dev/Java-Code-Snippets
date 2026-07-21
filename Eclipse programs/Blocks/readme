@@ -1,1 +1,3 @@
-
+Block is a set of instructions which is used for initialization of variables.
+It is of two types i) Static ii) Non-static.
+Static block can initialize only static variables while the non-satic blocks can initialize both non-static and static variables(but not a good practise).
