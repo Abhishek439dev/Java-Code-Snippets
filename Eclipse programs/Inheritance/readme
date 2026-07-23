@@ -1,4 +1,5 @@
 In this program, we have discussed inheritence also called as Is-A relationship. A child class "Is-A" specialized type of its parent class.
+In java only variables and methods can be inherited while blocks and constructors could not be inherited.
 Once class can access the properties of another class by this relationship. 
 The keyword "extends" is used to inherit the properties of a class.
 The object creation of the child class is enough to access the parent class properties.
