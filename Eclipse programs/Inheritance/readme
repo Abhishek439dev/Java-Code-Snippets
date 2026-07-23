@@ -1,0 +1,4 @@
+In this program, we have discussed inheritence also called as Is-A relationship. 
+Once class can access the properties of another class by this relationship. 
+The keyword "extends" is used to inherit the properties of a class.
+The object creation of the child class is enough to access the parent class properties.
