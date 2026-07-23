@@ -2,3 +2,5 @@ In this program, we have discussed inheritence also called as Is-A relationship.
 Once class can access the properties of another class by this relationship. 
 The keyword "extends" is used to inherit the properties of a class.
 The object creation of the child class is enough to access the parent class properties.
+It is of 5 types. i) single-level ii) multi-level iii) hierarchical iv) multiple inheritance v) Hybrif
+Multiple inheritance is not supported in java. Hybrid inheritance is supported to some extent (the one with multiple inheritance is not supported).
